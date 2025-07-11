@@ -2,6 +2,7 @@ Simple Bright Landing Page Layout
 This is a simple and bright layout project built using HTML, CSS, and vanilla JavaScript, following a clean and semantic structure.
 
 🛠 Key Features
+
 ✅ Responsive layout based on the original design
 
 ✅ BEM (Block Element Modifier) methodology for class naming
